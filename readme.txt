@@ -2,4 +2,4 @@ Hello Git!
 Git is a distributed version control system.
 Git tracks changes of files.
 Creating a dev branch & quick.
-Add merge.
+Add merge update by dev.
